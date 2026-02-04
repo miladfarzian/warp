@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 //profile-web-page-url: https://t.me/imeowlad 
-//last update on: 2026-02-03 12:40:44
-warp://162.159.192.82:928?ifp=10-20&ifps=20-60&ifpd=5-10#meow1&&detour=warp://188.114.97.68:2371?ifp=10-20&ifps=20-60&ifpd=5-10#meow2
+//last update on: 2026-02-04 01:20:08
+warp://162.159.192.200:7281?ifp=10-20&ifps=20-60&ifpd=5-10#meow1&&detour=warp://162.159.192.144:2371?ifp=10-20&ifps=20-60&ifpd=5-10#meow2
